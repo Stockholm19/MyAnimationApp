@@ -1,4 +1,4 @@
-# MyAnimationApp 🎞
+# MyAnimationApp
 
 Учебное iOS-приложение на основе **UIKit**, демонстрирующее анимации с помощью библиотеки [SpringAnimation](https://github.com/LexDeBash/SpringAnimation).
 
